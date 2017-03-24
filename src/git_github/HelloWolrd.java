@@ -7,7 +7,11 @@ public class HelloWolrd {
 		System.out.println("helloworld");
 		System.out.println("Hi wolrd");
 		System.out.println("Hi wolrd222");
-		
+		write();
+	}
+
+	private static void write() {
+		System.out.println();
 	}
 
 }
